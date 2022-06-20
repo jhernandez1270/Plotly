@@ -1,0 +1,5 @@
+var words = ['seal', 'dog', 'scorpion', 'orangutan', 'salamander'];
+
+var startsWithS = words.filter(word => {return word.match(/^s/i);});
+
+startsWithS

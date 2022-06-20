@@ -1,0 +1,3 @@
+var words = ['seal', 'dog', 'scorpion', 'orangutan', 'salamander'];
+var firstThreeElem = words.slice(0,3);
+firstThreeElem
